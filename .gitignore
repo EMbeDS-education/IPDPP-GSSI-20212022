@@ -1,0 +1,1621 @@
+
+jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+jupyter/jupyterNotebooks/.ipynb_checkpoints/covid_lastday-checkpoint.csv
+jupyter/jupyterNotebooks/.ipynb_checkpoints/covid_lastday_b-checkpoint.csv
+jupyter/jupyterNotebooks/.ipynb_checkpoints/Helloworld-checkpoint.ipynb
+jupyter/jupyterNotebooks/.ipynb_checkpoints/Part0_Course_Introduction-checkpoint.ipynb
+jupyter/jupyterNotebooks/.ipynb_checkpoints/Part1_NumPy_Pandas-checkpoint.ipynb
+jupyter/jupyterNotebooks/.ipynb_checkpoints/Part2_BreastCancer1_Preprocessing_and_Unsupervised_ML-checkpoint.ipynb
+jupyter/jupyterNotebooks/covid_lastday.csv
+jupyter/jupyterNotebooks/covid_lastday_b.csv
+jupyter/jupyterNotebooks/Helloworld.ipynb
+jupyter/jupyterNotebooks/inclass/.ipynb_checkpoints/Part1_NumPy_Pandas-checkpoint.ipynb
+jupyter/jupyterNotebooks/other/.ipynb_checkpoints/05Functions-checkpoint.ipynb
+jupyter/jupyterNotebooks/other/.ipynb_checkpoints/NumPy_Pandas-checkpoint.ipynb
+jupyter/jupyterNotebooks/other/.ipynb_checkpoints/Part1_NumPy_Pandas_b-checkpoint.ipynb
+jupyter/jupyterNotebooks/src/.ipynb_checkpoints/utils-checkpoint.py
+jupyter/jupyterNotebooks/.ipynb_checkpoints/Part2_BreastCancer2_Supervised_ML-checkpoint.ipynb
+jupyter/jupyterNotebooks/other/05Functions.ipynb
+jupyter/jupyterNotebooks/other/NumPy_Pandas.ipynb
+jupyter/jupyterNotebooks/other/Part1_NumPy_Pandas_b.ipynb
+jupyter/jupyterNotebooks/src/__pycache__/utils.cpython-37.pyc
+knime/Archive.zip
+*.version
+*.tree
+*.resources
+*.prefs
+knime/ws_in_class/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+knime/ws_in_class/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml
+knime/ws_in_class/.metadata/.plugins/org.knime.product/combined-preferences.epf
+knime/ws_in_class/.metadata/knime/history_ASCIIfile.txt
+knime/ws_in_class/.metadata/knime/history_csv_reader_writer.txt
+knime/ws_in_class/.metadata/knime/history_image_port_writer.txt
+knime/ws_in_class/.metadata/knime/history_momentjs-date-formats.txt
+knime/ws_in_class/.metadata/knime/history_momentjs-date-new-formats.txt
+knime/ws_in_class/.metadata/knime/history_momentjs-time-formats.txt
+knime/ws_in_class/.metadata/knime/history_momentjs-zoned-date-time-formats.txt
+knime/ws_in_class/.metadata/knime/knime.log
+knime/ws_in_class/.metadata/knime/log4j3.xml
+knime/ws_in_class/.metadata/knime/nodeusage_3.0.json
+knime/ws_in_class/.metadata/version.ini
+knime/ws_in_class/Example Workflows/.project
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Color Manager (#2)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Decision Tree Learner (#10)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Decision Tree Predictor (#4)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/File Reader (#1)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Interactive Table (#7)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/JavaScript Scatter Plot (#11)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Partitioning (#5)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Scorer (#12)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/Statistics (#9)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/workflow.knime
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/workflow.svg
+knime/ws_in_class/Example Workflows/Basic Examples/Building a Simple Classifier/workflowset.meta
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Cell Replacer (#129)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Column Filter (#263)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Column Rename (#156)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Concatenate (#143)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/DB Query Reader (#261)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Excel Reader (#265)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/File Reader (#233)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/File Reader (#235)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/File Reader (#237)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/GroupBy (#244)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/JavaScript Bar Chart (#255)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Joiner (#144)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Joiner (#145)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Joiner (#146)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/SQLite Connector (#260)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/String Manipulation (#240)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/Table Reader (#234)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/workflow.knime
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/workflow.svg
+knime/ws_in_class/Example Workflows/Basic Examples/Data Blending/workflowset.meta
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/Color Manager (#2)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/data/adult.data
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/default_report.rptconfig
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/default_report.rptdesign
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/File Reader (#18)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/Pivoting (#17)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/Sorter (#15)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/to Report (#16)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/workflow.knime
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/workflow.svg
+knime/ws_in_class/Example Workflows/Basic Examples/Simple Reporting Example/workflowset.meta
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/.project
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Color Manager (#6)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Column Filter (#2)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/data/sales_2008-2011.csv
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/File Reader (#1)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Pie_Donut Chart _JavaScript_ (#5)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Row Filter (#3)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Stacked Area Chart _JavaScript_ (#4)/settings.xml
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/workflow.knime
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/workflow.svg
+knime/ws_in_class/Example Workflows/Basic Examples/Visual Analysis of Sales Data/workflowset.meta
+knime/ws_in_class/Example Workflows/Basic Examples/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Color Manager (#67)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Decision Tree Learner (#101)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Decision Tree Predictor (#65)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Excel Reader (#110)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/File Reader (#91)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/JavaScript ROC Curve (#102)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Joiner (#95)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Number To String (#105)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Partitioning (#61)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/PMML Writer (#109)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Scorer (#107)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/workflow.svg
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/Data to Report (#108)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/default_report.rptconfig
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/default_report.rptdesign
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/File Reader (#103)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/PMML Predictor (#109)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/PMML Reader (#110)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/workflow.svg
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Churn Prediction/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Category To Number (#58)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cell To PMML (#54)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Concatenate (#60)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/Decision Tree Learner (#33)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/PMML To Cell (#28)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/Rule Engine (#34)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Column Filter (#294)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Constant Value Column (#290)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Constant Value Column (#292)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Row Filter (#9)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/RowID (#293)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Cross Joiner (#38)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Decision Tree Learner (#31)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Decision Tree Predictor (#32)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Scorer (#39)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/X_Aggregator (#7)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/X_Partitioner (#2)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/PMML To Cell (#22)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/RProp MLP Learner (#35)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/Rule Engine (#34)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Column Filter (#294)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Constant Value Column (#290)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Constant Value Column (#292)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Row Filter (#9)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/RowID (#293)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Cross Joiner (#38)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/MultiLayerPerceptron Predictor (#32)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Normalizer (#39)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/RProp MLP Learner (#31)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Scorer (#40)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/X_Aggregator (#7)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/X_Partitioner (#2)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/PMML To Cell (#34)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/Rule Engine (#35)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/SVM Learner (#33)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Column Filter (#294)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Constant Value Column (#290)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Constant Value Column (#292)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Row Filter (#9)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/RowID (#293)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Cross Joiner (#39)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Normalizer (#40)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Scorer (#41)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/SVM Learner (#31)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/SVM Predictor (#32)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/X_Aggregator (#7)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/X_Partitioner (#2)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/File Reader (#57)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/JavaScript Bar Chart (#59)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/model.pmml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/PMML Writer (#61)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Row Filter (#53)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Sorter (#52)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/workflow.svg
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Credit Scoring/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Denormalizer _PMML_ (#140)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Denormalizer _PMML_ (#141)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Excel Reader (#147)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/File Reader (#91)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Joiner (#95)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/k_Means (#138)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Loop End (#107)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Normalizer _PMML_ (#139)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Number To String (#144)/settings.xml
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/workflow.knime
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/workflow.svg
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/Customer Segmentation/workflowset.meta
+knime/ws_in_class/Example Workflows/Customer Intelligence/workflowset.meta
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/.artifacts/workflow-configuration.json
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Association Rule Learner _Borgelt_ (#110)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Cell Splitter (#123)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Double Configuration (#124)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Column Rename (#114)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Column Rename (#43)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/GroupBy (#35)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Joiner (#111)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Joiner (#34)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Math Formula (#113)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/RowID (#31)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Ungroup (#33)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Number To String (#122)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Table Reader (#120)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Table Reader (#121)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Table Writer (#112)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/workflow.svg
+knime/ws_in_class/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/workflowset.meta
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Cell Splitter (#134)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Data to Report (#112)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Data to Report (#128)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/default_report.rptconfig
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/default_report.rptdesign
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/GroupBy (#122)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/Joiner (#124)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/Table Row to Variable (#127)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/Ungroup (#123)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/Number To String (#122)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/Table Reader (#120)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/Table Reader (#121)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/Round Double (#129)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/Row Splitter (#127)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/Rule Engine (#126)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Subset Matcher (#114)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Table Creator (#115)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/GroupBy (#120)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Joiner (#116)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Row Filter (#70)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/RowID (#119)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Sorter (#121)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Ungroup (#118)/settings.xml
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/workflow.knime
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/workflow.svg
+knime/ws_in_class/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/workflowset.meta
+knime/ws_in_class/Example Workflows/Retail/workflowset.meta
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Case converter (#33)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Column Filter (#6)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Column Rename (#7)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/N Chars Filter (#31)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Number Filter (#30)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Punctuation Erasure (#29)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Stop Word Filter (#35)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Strings To Document (#34)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/workflow.knime
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/File Reader (#289)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/GroupBy (#221)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Topic Extractor _Parallel LDA_ (#15)/settings.xml
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/workflow.knime
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/workflow.svg
+knime/ws_in_class/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/workflowset.meta
+knime/ws_in_class/Example Workflows/Social Media/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/Basics/adult.csv
+knime/ws_in_class/Example Workflows/TheData/Basics/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/Baskets/AssociationRules.table
+knime/ws_in_class/Example Workflows/TheData/Baskets/items.table
+knime/ws_in_class/Example Workflows/TheData/Baskets/transactions.table
+knime/ws_in_class/Example Workflows/TheData/Baskets/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/Credit/german-credit-scoring.csv
+knime/ws_in_class/Example Workflows/TheData/Credit/model.pmml
+knime/ws_in_class/Example Workflows/TheData/Credit/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/Customers/CallsData.xls
+knime/ws_in_class/Example Workflows/TheData/Customers/ContractData.csv
+knime/ws_in_class/Example Workflows/TheData/Customers/model.pmml
+knime/ws_in_class/Example Workflows/TheData/Customers/newdata.csv
+knime/ws_in_class/Example Workflows/TheData/Customers/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/Misc/Demographics.csv
+knime/ws_in_class/Example Workflows/TheData/Misc/ProductData2.xls
+knime/ws_in_class/Example Workflows/TheData/Misc/SentimentAnalysis.table
+knime/ws_in_class/Example Workflows/TheData/Misc/SentimentRating.csv
+knime/ws_in_class/Example Workflows/TheData/Misc/WebActivity.sqlite
+knime/ws_in_class/Example Workflows/TheData/Misc/WebdataOldSystem.csv
+knime/ws_in_class/Example Workflows/TheData/Misc/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/SocialMedia/IMDb-sample.csv
+knime/ws_in_class/Example Workflows/TheData/SocialMedia/workflowset.meta
+knime/ws_in_class/Example Workflows/TheData/workflowset.meta
+knime/ws_in_class/Example Workflows/workflowset.meta
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Box Plot (#310)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Color Manager (#27)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Color Manager (#302)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Conditional Box Plot (#309)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Correlation Filter (#55)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/CSV Writer (#312)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/data/WBCD_preprocessed.csv
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Denormalizer (#315)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Duplicate Row Filter (#307)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Joiner (#304)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/k_Means (#61)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Linear Correlation (#4)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Missing Value (#306)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Missing Value Column Filter (#305)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Normalizer (#56)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Numeric Outliers (#311)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/PCA (#59)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Python Script (#308)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Python View (#314)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Scatter Plot (#303)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Scatter Plot (#37)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Silhouette Coefficient (#297)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/Statistics (#2)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/workflow.knime
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P1/workflow.svg
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/.savedWithData
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Color Manager (#52)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#41)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/data/WBCD_preprocessed.csv
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#10)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#32)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#40)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#51)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#15)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#34)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#4)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#45)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#29)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#43)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#47)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#49)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#30)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#44)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#48)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#50)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Parameter Optimization Loop End (#22)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Parameter Optimization Loop Start (#21)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#42)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#28)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#35)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#38)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#46)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/Table Row to Variable (#39)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/workflow.knime
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/workflow.svg
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/X_Aggregator (#31)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/X_Aggregator (#36)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/X_Partitioner (#2)/settings.xml
+knime/ws_in_class/IPDPP/Breast_Cancer_Analysis_P2/X_Partitioner (#37)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/getting_started/first_workflow/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/getting_started/first_workflow/Column Filter (#2)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/Image Writer _Port_ (#6)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/Image Writer _Port_ (#7)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/Pie_Donut Chart (#5)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/Row Filter (#3)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/Stacked Area Chart (#4)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow/workflow.knime
+knime/ws_in_class/IPDPP/getting_started/first_workflow/workflow.svg
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/.savedWithData
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Column Filter (#2)/port_1/data.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Column Filter (#2)/port_1/spec.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Column Filter (#2)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/CSV Reader (#1)/port_1/data.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/CSV Reader (#1)/port_1/data.zip
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/CSV Reader (#1)/port_1/spec.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Image Writer _Port_ (#7)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Interactive Pie chart _local_ (#6)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Pie_Donut Chart (#5)/internal/representation.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Pie_Donut Chart (#5)/internal/value.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Pie_Donut Chart (#5)/port_1/object/portobject.zip
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Pie_Donut Chart (#5)/port_1/spec/spec.zip
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Pie_Donut Chart (#5)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Row Filter (#3)/port_1/data.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Row Filter (#3)/port_1/data.zip
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Row Filter (#3)/port_1/spec.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Row Filter (#3)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/Stacked Area Chart (#4)/settings.xml
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/workflow.knime
+knime/ws_in_class/IPDPP/getting_started/first_workflow_in_class/workflow.svg
+knime/ws_in_class/IPDPP/getting_started/pie.svg
+knime/ws_in_class/IPDPP/getting_started/sales_data.csv
+knime/ws_in_class/IPDPP/getting_started/workflowset.meta
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P1/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P1/data/WBCD_preprocessed.csv
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P1/workflow.knime
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P1/workflow.svg
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Color Manager (#27)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/data/WBCD_preprocessed.csv
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Decision Tree Learner (#10)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#4)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Normalizer (#29)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#30)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Partitioning (#5)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/Scorer (#28)/settings.xml
+knime/ws_old.zip
+knime/ws_in_class/IPDPP/workflowset.meta
+knime/ws_in_class/IPDPP/WBCD_preprocessed.csv
+knime/ws_in_class/IPDPP/WBCD.csv
+knime/ws_in_class/IPDPP/Session_2/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Scorer (#75)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Random Forest Predictor (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Random Forest Learner (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Normalizer (#55)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Parameter Optimization Loop Start (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Parameter Optimization Loop End (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/CSV Reader (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Simple Regression Tree Predictor (#45)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Simple Regression Tree Learner (#44)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Numeric Scorer (#30)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Missing Value (#46)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/CSV Reader (#47)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Scorer (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Pre_Processi (#67)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Pre_Processi (#67)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Pre_Processi (#67)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Partitioning (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Decision Tree Predictor (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Decision Tree Learner (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/CSV Reader (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/workflow.svg
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Normalizer (#55)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/CSV Reader (#59)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/02_Random_Forest/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/workflow.svg
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/CSV Reader (#44)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/01_Regression_Tree/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/workflowset.meta
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/workflow.svg
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/Pre_Processi (#67)/workflow.knime
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/Pre_Processi (#67)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/Pre_Processi (#67)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/CSV Reader (#68)/settings.xml
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_2/02_Exercises/00_Decision_Tree/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Rule_based Row Filter (#779)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Rule_based Row Filter (#775)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Normalizer (#55)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Statistics (#74)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Numeric Outliers _Apply_ (#780)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Numeric Outliers (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Numeric Distances (#773)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Normalizer _Apply_ (#778)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Normalizer (#774)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Nominal Value Row Filter (#783)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Nominal Value Row Filter (#782)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/File Reader (#43)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/DBSCAN (#777)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/DBSCAN (#776)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/CSV Reader (#59)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/05_Feature_Selection/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Partitioning (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Column Filter (#201)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/CSV Reader (#782)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/CSV Reader (#782)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/CSV Reader (#76)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Rule_based Row Filter (#779)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Rule_based Row Filter (#775)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Normalizer (#55)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Statistics (#74)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Numeric Outliers _Apply_ (#780)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Numeric Outliers (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Numeric Distances (#773)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Normalizer _Apply_ (#778)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Normalizer (#774)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Nominal Value Row Filter (#783)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Nominal Value Row Filter (#782)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Scorer (#55)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Partitioning (#6)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Logistic Regression Predictor (#54)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Logistic Regression Learner (#53)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Feature Selection Loop Start _1_1_ (#8)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Feature Selection Loop End (#2)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Feature Selection Filter (#3)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/File Reader (#43)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/DBSCAN (#777)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/DBSCAN (#776)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/CSV Reader (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Concatenate (#59)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Reference Column Filter (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Partitioning (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Column Filter (#201)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/PCA Compute (#57)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/PCA Apply (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/PCA Apply (#58)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Low Variance Filter (#53)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Linear Correlation (#200)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/CSV Reader (#782)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Correlation Filter (#55)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Rule_based Row Filter (#784)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Rule_based Row Filter (#775)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Numeric Outliers _Apply_ (#780)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Numeric Outliers (#66)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Normalizer _Apply_ (#778)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Normalizer (#774)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/CSV Reader (#782)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Rule Engine (#87)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Rule Engine (#78)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Reference Column Filter (#84)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/Rule Engine (#23)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/Partitioning (#24)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/Column Filter (#26)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value Column Filter (#77)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value _Apply_ (#86)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value _Apply_ (#82)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value (#80)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value (#79)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/data/kc_house_data.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/data/AmesHousing.csv
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/CSV Reader (#88)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Column Auto Type Cast (#76)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Table Reader (#290)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Silhouette Coefficient (#297)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Scatter Plot (#296)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Row Filter (#274)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/MISSING OSM Map View (#275)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/k_Means (#292)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/data/location_data.table
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Color Manager (#276)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/workflowset.meta
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/workflow.svg
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/workflow.knime
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/Table Reader (#290)/settings.xml
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/data/location_data.table
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/Session_1/01_Exercises/01_Clustering/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/in_class/workflowset.meta
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/workflow.svg
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/workflow.knime
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/port_2/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/port_2/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/port_2/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/port_1/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Scorer (#8)/internal/internals.xml.gz
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/port_2/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/port_2/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/port_2/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/port_1/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Partitioning (#3)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer _Apply_ (#6)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer _Apply_ (#6)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer _Apply_ (#6)/port_1/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer _Apply_ (#6)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer (#5)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer (#5)/port_2/spec/spec.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer (#5)/port_2/object/portobject.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer (#5)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer (#5)/port_1/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Normalizer (#5)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Predictor (#7)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Predictor (#7)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Predictor (#7)/port_1/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Predictor (#7)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Predictor (#7)/internal/DecTreeClassifier.bin
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Learner (#4)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Learner (#4)/port_1/spec/spec.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Learner (#4)/port_1/object/portobject.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Decision Tree Learner (#4)/internal/TreeInternals.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/data/WBCD_preprocessed.csv
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/CSV Reader (#1)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/CSV Reader (#1)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/CSV Reader (#1)/port_1/data.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/CSV Reader (#1)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Color Manager (#2)/settings.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Color Manager (#2)/port_2/spec/spec.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Color Manager (#2)/port_2/object/portobject.zip
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Color Manager (#2)/port_1/spec.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/Color Manager (#2)/port_1/data.xml
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/.savedWithData
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/.artifacts/workflow-configuration.json
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/.artifacts/workflow-configuration-representation.json
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/workflow.svg
+knime/ws_in_class/IPDPP/in_class/Breast_Cancer_Analysis_P2/workflow.knime
+knime/ws_in_class/.metadata/.log
+knime/ws_in_class/.metadata/.lock
+knime/ws_shadow/.metadata/.lock
+knime/ws_shadow/.metadata/.log
+knime/ws_shadow/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+knime/ws_shadow/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml
+knime/ws_shadow/.metadata/.plugins/org.knime.product/combined-preferences.epf
+knime/ws_shadow/.metadata/knime/history_ASCIIfile.txt
+knime/ws_shadow/.metadata/knime/history_momentjs-date-formats.txt
+knime/ws_shadow/.metadata/knime/history_momentjs-date-new-formats.txt
+knime/ws_shadow/.metadata/knime/history_momentjs-time-formats.txt
+knime/ws_shadow/.metadata/knime/history_momentjs-zoned-date-time-formats.txt
+knime/ws_shadow/.metadata/knime/knime.log
+knime/ws_shadow/.metadata/knime/log4j3.xml
+knime/ws_shadow/.metadata/knime/nodeusage_3.0.json
+knime/ws_shadow/.metadata/version.ini
+knime/ws_shadow/Example Workflows/.project
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Color Manager (#2)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Decision Tree Learner (#10)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Decision Tree Predictor (#4)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/File Reader (#1)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Interactive Table (#7)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/JavaScript Scatter Plot (#11)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Partitioning (#5)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Scorer (#12)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/Statistics (#9)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/workflow.knime
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/workflow.svg
+knime/ws_shadow/Example Workflows/Basic Examples/Building a Simple Classifier/workflowset.meta
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Cell Replacer (#129)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Column Filter (#263)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Column Rename (#156)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Concatenate (#143)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/DB Query Reader (#261)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Excel Reader (#265)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/File Reader (#233)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/File Reader (#235)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/File Reader (#237)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/GroupBy (#244)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/JavaScript Bar Chart (#255)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Joiner (#144)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Joiner (#145)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Joiner (#146)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/SQLite Connector (#260)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/String Manipulation (#240)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/Table Reader (#234)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/workflow.knime
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/workflow.svg
+knime/ws_shadow/Example Workflows/Basic Examples/Data Blending/workflowset.meta
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/Color Manager (#2)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/data/adult.data
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/default_report.rptconfig
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/default_report.rptdesign
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/File Reader (#18)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/Pivoting (#17)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/Sorter (#15)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/to Report (#16)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/workflow.knime
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/workflow.svg
+knime/ws_shadow/Example Workflows/Basic Examples/Simple Reporting Example/workflowset.meta
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/.project
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Color Manager (#6)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Column Filter (#2)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/data/sales_2008-2011.csv
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/File Reader (#1)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Pie_Donut Chart _JavaScript_ (#5)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Row Filter (#3)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/Stacked Area Chart _JavaScript_ (#4)/settings.xml
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/workflow.knime
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/workflow.svg
+knime/ws_shadow/Example Workflows/Basic Examples/Visual Analysis of Sales Data/workflowset.meta
+knime/ws_shadow/Example Workflows/Basic Examples/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Color Manager (#67)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Decision Tree Learner (#101)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Decision Tree Predictor (#65)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Excel Reader (#110)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/File Reader (#91)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/JavaScript ROC Curve (#102)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Joiner (#95)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Number To String (#105)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Partitioning (#61)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/PMML Writer (#109)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/Scorer (#107)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/workflow.svg
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Building a Churn Prediction Model/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/Data to Report (#108)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/default_report.rptconfig
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/default_report.rptdesign
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/File Reader (#103)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/PMML Predictor (#109)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/PMML Reader (#110)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/workflow.svg
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/Deploying a Churn Prediction Model/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Churn Prediction/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Category To Number (#58)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cell To PMML (#54)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Concatenate (#60)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/Decision Tree Learner (#33)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/PMML To Cell (#28)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/Rule Engine (#34)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Apply the Mo (#37)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Column Filter (#294)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Constant Value Column (#290)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Constant Value Column (#292)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/Row Filter (#9)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/RowID (#293)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Creation of (#36)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Cross Joiner (#38)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Decision Tree Learner (#31)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Decision Tree Predictor (#32)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/Scorer (#39)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/X_Aggregator (#7)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#42)/X_Partitioner (#2)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/PMML To Cell (#22)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/RProp MLP Learner (#35)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/Rule Engine (#34)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Apply the Mo (#36)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Column Filter (#294)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Constant Value Column (#290)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Constant Value Column (#292)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/Row Filter (#9)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/RowID (#293)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Creation of (#37)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Cross Joiner (#38)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/MultiLayerPerceptron Predictor (#32)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Normalizer (#39)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/RProp MLP Learner (#31)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/Scorer (#40)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/X_Aggregator (#7)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _Decision Tree_ (#43)/X_Partitioner (#2)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/PMML To Cell (#34)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/Rule Engine (#35)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/SVM Learner (#33)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Apply the Mo (#38)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Column Filter (#294)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Constant Value Column (#290)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Constant Value Column (#292)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/Row Filter (#9)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/RowID (#293)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Creation of (#37)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Cross Joiner (#39)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Normalizer (#40)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/Scorer (#41)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/SVM Learner (#31)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/SVM Predictor (#32)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/X_Aggregator (#7)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Cross Validation _SVM_ (#44)/X_Partitioner (#2)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/File Reader (#57)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/JavaScript Bar Chart (#59)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/model.pmml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/PMML Writer (#61)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Row Filter (#53)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/Sorter (#52)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/workflow.svg
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/Building a Credit Scoring Model/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Credit Scoring/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Denormalizer _PMML_ (#140)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Denormalizer _PMML_ (#141)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Excel Reader (#147)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/File Reader (#91)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Joiner (#95)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/k_Means (#138)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Loop End (#107)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Normalizer _PMML_ (#139)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/Number To String (#144)/settings.xml
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/workflow.knime
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/workflow.svg
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/Basic Customer Segmentation Use Case/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/Customer Segmentation/workflowset.meta
+knime/ws_shadow/Example Workflows/Customer Intelligence/workflowset.meta
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/.artifacts/workflow-configuration.json
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Association Rule Learner _Borgelt_ (#110)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Cell Splitter (#123)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Double Configuration (#124)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Column Rename (#114)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Column Rename (#43)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/GroupBy (#35)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Joiner (#111)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Joiner (#34)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Math Formula (#113)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/RowID (#31)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/Ungroup (#33)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Find Recomme (#111)/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Number To String (#122)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Table Reader (#120)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Table Reader (#121)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/Table Writer (#112)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/workflow.svg
+knime/ws_shadow/Example Workflows/Retail/Finding Association Rules for Market Basket Analysis/workflowset.meta
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Cell Splitter (#134)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Data to Report (#112)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Data to Report (#128)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/default_report.rptconfig
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/default_report.rptdesign
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/GroupBy (#122)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/Joiner (#124)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/Table Row to Variable (#127)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/Ungroup (#123)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Price of cur (#131)/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/Number To String (#122)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/Table Reader (#120)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/Table Reader (#121)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Read Data (#108)/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/Round Double (#129)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/Row Splitter (#127)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/Rule Engine (#126)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Refine (#133)/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Subset Matcher (#114)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Table Creator (#115)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/GroupBy (#120)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Joiner (#116)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Row Filter (#70)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/RowID (#119)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Sorter (#121)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/Ungroup (#118)/settings.xml
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/Top 2 Rules (#132)/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/workflow.knime
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/workflow.svg
+knime/ws_shadow/Example Workflows/Retail/Using Association Rules for Market Basket Analysis/workflowset.meta
+knime/ws_shadow/Example Workflows/Retail/workflowset.meta
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Case converter (#33)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Column Filter (#6)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Column Rename (#7)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/N Chars Filter (#31)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Number Filter (#30)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Punctuation Erasure (#29)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Stop Word Filter (#35)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/Strings To Document (#34)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Document Cre (#287)/workflow.knime
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/File Reader (#289)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/GroupBy (#221)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/Topic Extractor _Parallel LDA_ (#15)/settings.xml
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/workflow.knime
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/workflow.svg
+knime/ws_shadow/Example Workflows/Social Media/Topic Detection Based on Movie Reviews/workflowset.meta
+knime/ws_shadow/Example Workflows/Social Media/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/Basics/adult.csv
+knime/ws_shadow/Example Workflows/TheData/Basics/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/Baskets/AssociationRules.table
+knime/ws_shadow/Example Workflows/TheData/Baskets/items.table
+knime/ws_shadow/Example Workflows/TheData/Baskets/transactions.table
+knime/ws_shadow/Example Workflows/TheData/Baskets/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/Credit/german-credit-scoring.csv
+knime/ws_shadow/Example Workflows/TheData/Credit/model.pmml
+knime/ws_shadow/Example Workflows/TheData/Credit/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/Customers/CallsData.xls
+knime/ws_shadow/Example Workflows/TheData/Customers/ContractData.csv
+knime/ws_shadow/Example Workflows/TheData/Customers/model.pmml
+knime/ws_shadow/Example Workflows/TheData/Customers/newdata.csv
+knime/ws_shadow/Example Workflows/TheData/Customers/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/Misc/Demographics.csv
+knime/ws_shadow/Example Workflows/TheData/Misc/ProductData2.xls
+knime/ws_shadow/Example Workflows/TheData/Misc/SentimentAnalysis.table
+knime/ws_shadow/Example Workflows/TheData/Misc/SentimentRating.csv
+knime/ws_shadow/Example Workflows/TheData/Misc/WebActivity.sqlite
+knime/ws_shadow/Example Workflows/TheData/Misc/WebdataOldSystem.csv
+knime/ws_shadow/Example Workflows/TheData/Misc/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/SocialMedia/IMDb-sample.csv
+knime/ws_shadow/Example Workflows/TheData/SocialMedia/workflowset.meta
+knime/ws_shadow/Example Workflows/TheData/workflowset.meta
+knime/ws_shadow/Example Workflows/workflowset.meta
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Box Plot (#310)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Color Manager (#27)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Color Manager (#302)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Conditional Box Plot (#309)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Correlation Filter (#55)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/CSV Reader (#1)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/CSV Writer (#312)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/data/WBCD_preprocessed.csv
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Denormalizer (#315)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Duplicate Row Filter (#307)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Joiner (#304)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/k_Means (#61)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Linear Correlation (#4)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Missing Value (#306)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Missing Value Column Filter (#305)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Normalizer (#56)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Numeric Outliers (#311)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/PCA (#59)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Python Script (#308)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Python View (#314)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Scatter Plot (#303)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Scatter Plot (#37)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Silhouette Coefficient (#297)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/Statistics (#2)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/workflow.knime
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P1/workflow.svg
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/.savedWithData
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Color Manager (#52)/port_1/data.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Color Manager (#52)/port_1/spec.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Color Manager (#52)/port_2/object/portobject.zip
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Color Manager (#52)/port_2/spec/spec.zip
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Color Manager (#52)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#1)/port_1/data.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#1)/port_1/data.zip
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#1)/port_1/spec.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#1)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/CSV Reader (#41)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/data/WBCD_preprocessed.csv
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#10)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#32)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#40)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Learner (#51)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#15)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#34)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#4)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#45)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#29)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#43)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#47)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer (#49)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#30)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#44)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#48)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#50)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Parameter Optimization Loop End (#22)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Parameter Optimization Loop Start (#21)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#42)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/port_1/data.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/port_1/data.zip
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/port_1/spec.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/port_2/data.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/port_2/data.zip
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/port_2/spec.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Partitioning (#5)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#28)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#35)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#38)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Scorer (#46)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/Table Row to Variable (#39)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/workflow.knime
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/workflow.svg
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/X_Aggregator (#31)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/X_Aggregator (#36)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/X_Partitioner (#2)/settings.xml
+knime/ws_shadow/IPDPP/Breast_Cancer_Analysis_P2/X_Partitioner (#37)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/getting_started/first_workflow/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/getting_started/first_workflow/Column Filter (#2)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/CSV Reader (#1)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/Image Writer _Port_ (#6)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/Image Writer _Port_ (#7)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/Pie_Donut Chart (#5)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/Row Filter (#3)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/Stacked Area Chart (#4)/settings.xml
+knime/ws_shadow/IPDPP/getting_started/first_workflow/workflow.knime
+knime/ws_shadow/IPDPP/getting_started/first_workflow/workflow.svg
+knime/ws_shadow/IPDPP/getting_started/sales_data.csv
+knime/ws_shadow/IPDPP/getting_started/workflowset.meta
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P1/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P1/CSV Reader (#1)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P1/data/WBCD_preprocessed.csv
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P1/workflow.knime
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P1/workflow.svg
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Color Manager (#27)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/CSV Reader (#1)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/data/WBCD_preprocessed.csv
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Decision Tree Learner (#10)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Decision Tree Predictor (#4)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Normalizer (#29)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Normalizer _Apply_ (#30)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Partitioning (#5)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/Scorer (#28)/settings.xml
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/workflow.knime
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2/workflow.svg
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/data/WBCD_preprocessed.csv
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/workflow.knime
+knime/ws_shadow/IPDPP/in_class/Breast_Cancer_Analysis_P2_0/workflow.svg
+knime/ws_shadow/IPDPP/in_class/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/data/location_data.table
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/Table Reader (#290)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Clustering/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Color Manager (#276)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/data/location_data.table
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/k_Means (#292)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/MISSING OSM Map View (#275)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Row Filter (#274)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Scatter Plot (#296)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Silhouette Coefficient (#297)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/Table Reader (#290)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/01_Clustering_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Column Auto Type Cast (#76)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/CSV Reader (#88)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value (#79)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value (#80)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value _Apply_ (#82)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value _Apply_ (#86)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Missing Value Column Filter (#77)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Preprocessin (#89)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Reference Column Filter (#84)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Rule Engine (#78)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/Rule Engine (#87)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/02_Missing_Value_Handling_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/CSV Reader (#782)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Normalizer (#774)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Normalizer _Apply_ (#778)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Numeric Outliers (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Numeric Outliers _Apply_ (#780)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Preprocessin (#781)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Rule_based Row Filter (#775)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/Rule_based Row Filter (#784)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/03_Outlier_Detection_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Correlation Filter (#55)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/CSV Reader (#782)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Linear Correlation (#200)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Low Variance Filter (#53)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/PCA Apply (#58)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/PCA Apply (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/PCA Compute (#57)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Column Filter (#201)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Partitioning (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Preprocessin (#197)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/Reference Column Filter (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/04_Dimensionality_Reduction_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Concatenate (#59)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/CSV Reader (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/DBSCAN (#776)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/DBSCAN (#777)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/File Reader (#43)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Feature Selection Filter (#3)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Feature Selection Loop End (#2)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Feature Selection Loop Start _1_1_ (#8)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Logistic Regression Learner (#53)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Logistic Regression Predictor (#54)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Partitioning (#6)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/Scorer (#55)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Forward Feat (#6)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Nominal Value Row Filter (#782)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Nominal Value Row Filter (#783)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Normalizer (#774)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Normalizer _Apply_ (#778)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Numeric Distances (#773)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Numeric Outliers (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Numeric Outliers _Apply_ (#780)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/Statistics (#74)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Normalizer (#55)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#61)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Preprocessin (#781)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Rule_based Row Filter (#775)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/Rule_based Row Filter (#779)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/05_Feature_Selection_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/01_Solutions/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/CSV Reader (#76)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/Preprocessin (#77)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/02_Missing_Value_Handling/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/CSV Reader (#782)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/Preprocessin (#781)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/03_Outlier_Detection/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/CSV Reader (#782)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Column Filter (#201)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Partitioning (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/Preprocessin (#197)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/04_Dimensionality_Reduction/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/CSV Reader (#59)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/DBSCAN (#776)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/DBSCAN (#777)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/File Reader (#43)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Nominal Value Row Filter (#782)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Nominal Value Row Filter (#783)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Normalizer (#774)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Normalizer _Apply_ (#778)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Numeric Distances (#773)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Numeric Outliers (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Numeric Outliers _Apply_ (#780)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Statistics (#74)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Normalizer (#55)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#58)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Preprocessin (#781)/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Rule_based Row Filter (#775)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/Rule_based Row Filter (#779)/settings.xml
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/workflow.knime
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/workflow.svg
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/05_Feature_Selection/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/01_Exercises/workflowset.meta
+knime/ws_shadow/IPDPP/Session_1/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/CSV Reader (#68)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/Pre_Processi (#67)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/Pre_Processi (#67)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/Pre_Processi (#67)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/workflow.svg
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/00_Decision_Tree/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/CSV Reader (#44)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/workflow.svg
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/01_Regression_Tree/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/CSV Reader (#59)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Normalizer (#55)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/Preprocessin (#58)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/workflow.svg
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Random_Forest/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/CSV Reader (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Decision Tree Learner (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Decision Tree Predictor (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Partitioning (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Pre_Processi (#67)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Pre_Processi (#67)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Pre_Processi (#67)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/Scorer (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/00_Decision_Tree_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/CSV Reader (#47)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Missing Value (#46)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Numeric Scorer (#30)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Simple Regression Tree Learner (#44)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/Simple Regression Tree Predictor (#45)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/01_Regression_Tree_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/.artifacts/workflow-configuration-representation.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/.artifacts/workflow-configuration.json
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/CSV Reader (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/data/AmesHousing.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/data/kc_house_data.csv
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Parameter Optimization Loop End (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Parameter Optimization Loop Start (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Column Filter (#26)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Correlation Filter (#66)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Linear Correlation (#76)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Low Variance Filter (#53)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Column Auto Type Cast (#69)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value (#60)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value (#62)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value (#71)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#64)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#65)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value _Apply_ (#73)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Missing Value Column Filter (#70)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Reference Column Filter (#72)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/Rule Engine (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/Reference Column Filter (#74)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Missing valu (#75)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Normalizer (#55)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Normalizer _Apply_ (#56)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Partitioning (#24)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/Rule Engine (#23)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Preprocessin (#74)/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Random Forest Learner (#61)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Random Forest Predictor (#63)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/Scorer (#75)/settings.xml
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/workflow.knime
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/workflow.svg
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/02_Random_Forest_solution/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/02_Solutions/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/02_Exercises/workflowset.meta
+knime/ws_shadow/IPDPP/Session_2/workflowset.meta
+knime/ws_shadow/IPDPP/WBCD.csv
+knime/ws_shadow/IPDPP/WBCD_preprocessed.csv
+knime/ws_shadow/IPDPP/workflowset.meta
