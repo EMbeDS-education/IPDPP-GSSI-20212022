@@ -17,3 +17,5 @@ knime/Archive.zip
 knime/ws_in_class/
 knime/ws_shadow/
 knime/ws_old.zip
+.DS_Store
+jupyter/.DS_Store
