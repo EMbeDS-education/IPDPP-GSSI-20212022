@@ -19,3 +19,7 @@ knime/ws_shadow/
 knime/ws_old.zip
 .DS_Store
 jupyter/.DS_Store
+jupyter/jupyterNotebooks/covid_more_than_10k.csv
+jupyter/jupyterNotebooks/covid_more_than_25k.csv
+jupyter/jupyterNotebooks/M2_01Titanic_EDA.ipynb
+jupyter/jupyterNotebooks/Part1_NumPy_Pandas_old.ipynb
